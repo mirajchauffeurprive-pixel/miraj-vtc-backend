@@ -1,0 +1,8 @@
+{
+  "name": "miraj-vtc-backend",
+  "version": "1.0.0",
+  "description": "Backend Netlify Functions pour MIRAJ VTC",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
